@@ -86,14 +86,6 @@ Open `data/news.yaml` and add a block at the top:
   url: "#"
 ```
 
-## Deploy to Dreamhost
-
-Once your SSH key is set up (`ssh-copy-id dh_cj98j5@iad1-shared-e1-19.dreamhost.com`):
-
-```bash
-./deploy.sh
-```
-
 It runs `hugo` and rsyncs `public/` to the domain's web directory. Confirm the
 `REMOTE` path in `deploy.sh` matches what the panel shows for the domain (usually
 `~/youthjusticeproject.org/`).
