@@ -1,0 +1,80 @@
+{{ define "main" }}
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="wrap">
+    <span class="kicker">Policy &amp; Research</span>
+    <h1 style="margin-top:16px;">What the coalition files, signs, and testifies on.</h1>
+    <p class="lede">This is where the coalition publishes its shared positions on DC youth justice policy and the work behind them. Read what members have filed, signed, and testified on, and cite or share any of it.</p>
+  </div>
+</section>
+
+<!-- ============ SHARED POSITION EXPLAINER ============ -->
+<section class="section-sm">
+  <div class="wrap">
+    <div class="explainer">
+      <div>
+        <span class="kicker">How to read this</span>
+        <h3 style="margin-top:14px;">What "shared position" means.</h3>
+      </div>
+      <div>
+        <p>A shared position is a stance the coalition has reached consensus on, meaning every member organization either supports it or stands aside without blocking. Shared positions reflect what the coalition can agree to as a group at a given moment.</p>
+        <p>Listing as a member of the coalition does not mean every member endorses every shared position, and the coalition does not bind members on issues outside the shared position itself. When member organizations want to act in their own names, they do.</p>
+      </div>
+    </div>
+
+    <div class="archive-note">
+      <div class="legend">
+        <span class="lt">Topics in this archive</span>
+        <span class="dtag">DYRS oversight</span>
+        <span class="dtag">Budget</span>
+        <span class="dtag">Legislation</span>
+        <span class="dtag">Education in custody</span>
+        <span class="dtag">Public safety</span>
+        <span class="dtag">Behavioral health</span>
+      </div>
+      <div style="font-family:var(--font-mono); font-size:12px; color:var(--ink-mute);">Testimony, letters, statements, and reports from Open City Advocates and coalition members, 2009–2026.</div>
+    </div>
+
+    {{ range $g := site.Data.policy }}
+    <div class="year-group">
+      <div class="year-head"><span class="yr">{{ $g.year }}</span><span class="yc">{{ $g.count }}</span></div>
+{{ range $g.items }}
+      <a class="doc-row" href="{{ .url }}"{{ if .external }} target="_blank" rel="noopener"{{ end }}>
+        <div class="ddate">{{ .date }}</div>
+        <div>
+          <div class="dttl">{{ .title }}</div>
+          <div class="dby">{{ .by }}</div>
+          <div class="dtags"><span class="dtag type">{{ .type }}</span>{{ range .tags }}<span class="dtag">{{ . }}</span>{{ end }}</div>
+        </div>
+        <div class="dgo">Read <span class="arw">&rarr;</span></div>
+      </a>
+{{ end }}
+    </div>
+{{ end }}
+
+    <!-- ===== ONGOING RESOURCES (no publication date) ===== -->
+    <div class="year-group">
+      <div class="year-head"><span class="yr">Ongoing</span><span class="yc">Undated resources &amp; explainers</span></div>
+      <div class="topic-pills" style="margin-top:6px;">
+        <a href="https://freemindsbookclub.org/our-work/connect-magazine/" target="_blank" rel="noopener">Free Minds — Connect Magazine</a>
+        <a href="https://freemindsbookclub.org/our-work/books-by-free-minds/" target="_blank" rel="noopener">Free Minds — Books by Free Minds</a>
+        <a href="https://freemindsbookclub.org/poems/" target="_blank" rel="noopener">Free Minds — Poetry Blog</a>
+        <a href="https://cdn.prod.website-files.com/659c0df344c9c8325dd821ca/66230610c3d16f2cc96e5822_Jury_Duty_Tips_for_Citizens.pdf" target="_blank" rel="noopener">CCE — Jury Duty: Tips for Citizens</a>
+        <a href="https://www.washlaw.org/targeted-labeled-criminalized-early-findings-on-the-district-of-columbias-gang-database-2/" target="_blank" rel="noopener">WLC — Targeted, Labeled, Criminalized: DC's Gang Database</a>
+        <a href="https://lims.dccouncil.gov/Legislation/B24-0076" target="_blank" rel="noopener">SJP — Special Education Attorneys for Emerging Adult Defendants Act</a>
+        <a href="https://lims.dccouncil.gov/Legislation/B22-0950" target="_blank" rel="noopener">SJP — Students in the Care of DC Coordinating Committee Act</a>
+        <a href="https://dcjusticelab.org/juvenile-transfer/" target="_blank" rel="noopener">DC Justice Lab — Charging Children as Adults</a>
+        <a href="https://dcjusticelab.org/codifying-diversion/" target="_blank" rel="noopener">DC Justice Lab — Codifying Diversion</a>
+        <a href="https://dcjusticelab.org/restorative-justice-in-schools/" target="_blank" rel="noopener">DC Justice Lab — Restorative Justice in Schools</a>
+        <a href="https://dcjusticelab.org/gun-violence-prevention/" target="_blank" rel="noopener">DC Justice Lab — Gun Violence Prevention</a>
+      </div>
+    </div>
+
+    <!-- ===== CITE / SHARE ===== -->
+    <div class="cite-note">
+      <h3>Citing or sharing this work?</h3>
+      <p>Coalition materials are free to quote and share with attribution. Cite as: <code>Youth Justice Project, [Title], [Date].</code> Members of the press can reach the coalition through Open City Advocates, the coalition's administrative backbone.</p>
+    </div>
+  </div>
+</section>
+{{ end }}

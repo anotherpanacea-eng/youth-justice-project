@@ -1,0 +1,63 @@
+{{ define "main" }}
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="wrap">
+    <span class="kicker">Contact</span>
+    <h1 style="margin-top:16px;">Reach the coalition.</h1>
+    <p class="lede">The Youth Justice Project has no office and no staff. All correspondence is received through Open City Advocates, which serves as the coalition's administrative backbone.</p>
+  </div>
+</section>
+
+<!-- ============ CONTACT CARDS ============ -->
+<section class="section-sm">
+  <div class="wrap">
+    <div class="contact-grid">
+      <div class="contact-card">
+        <h3>General inquiries</h3>
+        <p>For questions about the coalition, its work, or membership.</p>
+        <p><a class="email" href="#">contact@youthjusticeproject.org</a> <span class="ph" title="Email to be confirmed before launch"></span></p>
+      </div>
+      <div class="contact-card">
+        <h3>Press</h3>
+        <p>Members of the press can reach the coalition through Open City Advocates.</p>
+        <p><a class="email" href="#">press@youthjusticeproject.org</a> <span class="ph" title="Email to be confirmed before launch"></span></p>
+      </div>
+    </div>
+
+    <!-- NEWSLETTER -->
+    <div class="join-band" style="margin-top:36px;">
+      <div>
+        <span class="kicker">Stay in the loop</span>
+        <h3 style="margin-top:14px;">Get coalition updates by email.</h3>
+      </div>
+      <div>
+        <p>Occasional updates: new letters, new data, and what's moving at the Council. We do not share your email.</p>
+        <form onsubmit="this.querySelector('input').value=''; this.querySelector('.confirm').hidden=false; return false;" style="margin-top:16px; display:flex; flex-direction:column; gap:12px;">
+          <div style="display:flex; gap:10px;">
+            <input type="email" placeholder="Email address" aria-label="Email address" required style="flex:1; padding:13px 16px; border:1.5px solid var(--line-2); background:var(--paper); font-family:var(--font-body); font-size:15px; border-radius:2px;" />
+            <button class="btn" type="submit">Sign me up</button>
+          </div>
+          <div class="confirm" hidden style="font-size:14px; color:var(--anchor); font-weight:600;">Thanks. You are on the list.</div>
+        </form>
+      </div>
+    </div>
+
+    <!-- DISCLAIMERS -->
+    <div class="disclaimers">
+      <span class="kicker">About this site</span>
+      <div class="disclaimer">
+        <h4>A voluntary alliance</h4>
+        <p>The Youth Justice Project is a voluntary alliance and an unincorporated nonprofit association under DC Code § 29-1101. The coalition is a legal entity distinct from any of its member organizations.</p>
+      </div>
+      <div class="disclaimer">
+        <h4>No legal advice</h4>
+        <p>Content on this site is for general information only. Nothing here is legal advice, and reading this site does not create an attorney-client relationship with the coalition or any member organization. If you need legal help, contact a lawyer.</p>
+      </div>
+      <div class="disclaimer">
+        <h4>Coalition positions</h4>
+        <p>Shared positions published here reflect coalition consensus at the time of publication. Listing as a member does not mean every member endorses every position. Members may act in their own names on any issue.</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

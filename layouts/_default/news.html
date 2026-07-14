@@ -1,0 +1,51 @@
+{{ define "main" }}
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="wrap">
+    <span class="kicker">News</span>
+    <h1 style="margin-top:16px;">What the coalition is filing, signing, and testifying on.</h1>
+    <p class="lede">The latest from the Youth Justice Project: coalition letters, joint comments, testimony, and the policy fights moving through the District right now.</p>
+  </div>
+</section>
+
+<!-- ============ LATEST ============ -->
+<section class="section-sm">
+  <div class="wrap">
+    <div class="news-list">
+{{ range site.Data.news }}
+      <a class="news-item" href="{{ .url }}">
+        <div class="nidate">{{ .date }}</div>
+        <div>
+          <h3>{{ .title }}</h3>
+          <p>{{ .summary }}</p>
+          <div class="nitags"><span class="dtag type">{{ .type }}</span>{{ range .tags }}<span class="dtag">{{ . }}</span>{{ end }}</div>
+        </div>
+        <div class="ngo">Read <span class="arw">&rarr;</span></div>
+      </a>
+{{ end }}
+    </div>
+
+    <p class="note-strip">This is the start of the coalition's public news feed. As members file new letters, comments, and testimony, they will appear here and in <a class="textlink" href="policy.html">Policy &amp; Research</a>.</p>
+  </div>
+</section>
+
+<!-- ============ NEWSLETTER ============ -->
+<section class="section-sm" style="background:var(--paper-2); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
+  <div class="wrap">
+    <div style="display:grid; grid-template-columns:1.1fr 1fr; gap:40px; align-items:center;">
+      <div class="shead" style="max-width:none;">
+        <span class="kicker">Stay in the loop</span>
+        <h2 style="margin-top:14px;">Get coalition updates by email.</h2>
+        <p class="sintro">Occasional updates: new letters, new data, and what's moving at the Council. We do not share your email.</p>
+      </div>
+      <form onsubmit="this.querySelector('input').value=''; this.querySelector('.confirm').hidden=false; return false;" style="display:flex; flex-direction:column; gap:12px;">
+        <div style="display:flex; gap:10px;">
+          <input type="email" placeholder="Email address" aria-label="Email address" required style="flex:1; padding:14px 16px; border:1.5px solid var(--line-2); background:var(--paper); font-family:var(--font-body); font-size:15px; border-radius:2px;" />
+          <button class="btn" type="submit">Sign me up</button>
+        </div>
+        <div class="confirm" hidden style="font-size:14px; color:var(--anchor); font-weight:600;">Thanks. You are on the list. Watch your inbox for the next coalition update.</div>
+      </form>
+    </div>
+  </div>
+</section>
+{{ end }}

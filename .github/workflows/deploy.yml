@@ -1,0 +1,38 @@
+# Dreamhost rsync deploy — kept as a manual fallback.
+# Pages (pages.yml) is the active deploy. This runs ONLY if you trigger it by hand
+# from the Actions tab, and requires the DREAMHOST_SSH_KEY secret to be set.
+name: Deploy to Dreamhost (manual)
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-dreamhost
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    env:
+      DH_USER: dh_cj98j5
+      DH_HOST: iad1-shared-e1-19.dreamhost.com
+      DH_PATH: "~/youthjusticeproject.org/"
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: latest
+          extended: true
+      - name: Build
+        run: hugo --minify
+      - name: Load SSH deploy key
+        uses: webfactory/ssh-agent@v0.9.1
+        with:
+          ssh-private-key: ${{ secrets.DREAMHOST_SSH_KEY }}
+      - name: Trust the Dreamhost host key
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -H "$DH_HOST" >> ~/.ssh/known_hosts
+      - name: Deploy with rsync
+        run: rsync -avz --delete public/ "$DH_USER@$DH_HOST:$DH_PATH"

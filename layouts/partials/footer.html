@@ -1,0 +1,49 @@
+<footer class="site-foot">
+  <div class="wrap">
+    <div class="foot-top">
+      <div class="foot-blurb">
+        <div class="bname">Youth Justice Project</div>
+        <p>A voluntary alliance of DC youth defenders, legal advocates, and allied organizations working to advance a smaller, fairer, more just, and community-rooted juvenile legal system.</p>
+      </div>
+      <div class="foot-col">
+        <h5>About</h5>
+        <a href="index.html#about">Mission</a>
+        <a href="members.html#operate">How we operate</a>
+        <a href="members.html">Members</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div class="foot-col">
+        <h5>Our work</h5>
+        <a href="index.html#work">Policy &amp; legislation</a>
+        <a href="index.html#work">Oversight</a>
+        <a href="index.html#work">Research &amp; data</a>
+        <a href="index.html#work">Communications</a>
+      </div>
+      <div class="foot-col">
+        <h5>Policy &amp; research</h5>
+        <a href="policy.html">Testimony</a>
+        <a href="policy.html">Coalition letters</a>
+        <a href="policy.html">Briefs &amp; reports</a>
+        <a href="policy.html">Fact sheets</a>
+      </div>
+      <div class="foot-col">
+        <h5>Data</h5>
+        <a href="data.html">Headline numbers</a>
+        <a href="data.html#methodology">Methodology</a>
+        <a href="data.html">Sources</a>
+      </div>
+    </div>
+{{ if .IsHome }}
+    <div class="news">
+      <div>
+        <h4>Stay in the loop on DC youth justice.</h4>
+        <p>Occasional coalition updates: new letters, new data, and what's moving at the Council. We do not share your email.</p>
+      </div>
+      <form onsubmit="this.querySelector('input').value=''; this.nextElementSibling?.removeAttribute('hidden'); return false;">
+        <input type="email" placeholder="Email address" aria-label="Email address" required />
+        <button class="btn" type="submit">Sign me up</button>
+      </form>
+    </div>
+{{ end }}
+  </div>
+</footer>

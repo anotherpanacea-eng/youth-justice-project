@@ -1,0 +1,14 @@
+baseURL = "https://youthjusticeproject.org/"
+languageCode = "en-us"
+title = "Youth Justice Project"
+enableRobotsTXT = true
+
+# Emit flat .html filenames (policy.html, data.html ...) to match the current live site,
+# so no existing links break when you cut over.
+uglyURLs = true
+
+[params]
+  description = "The Youth Justice Project unites DC's youth defenders, legal advocates, and allied organizations to confront racial injustice in the city's juvenile legal system and build a smaller, fairer system rooted in young people's families and communities."
+
+[markup.goldmark.renderer]
+  unsafe = true
