@@ -1,11 +1,3 @@
-- date: May 26, 2026
-  title: Coalition proposes a Deputy DYRS Ombudsperson
-  summary: A joint memo with Children's Law Center urges the Office of the Ombudsperson for Children to create dedicated oversight
-    capacity for young people committed to DYRS.
-  type: Memo
-  tags:
-  - DYRS oversight
-  url: '#'
 - date: June 2026
   title: Coalition urges full funding for the Credible Messenger Initiative
   summary: In a letter to the DC Council, the coalition calls for fully funding the community-based mentorship program that
@@ -15,6 +7,22 @@
   - Budget
   - Credible Messengers
   url: '#'
+- date: May 26, 2026
+  title: Coalition proposes a Deputy DYRS Ombudsperson
+  summary: A joint memo with Children's Law Center urges the Office of the Ombudsperson for Children to create dedicated oversight
+    capacity for young people committed to DYRS.
+  type: Memo
+  tags:
+  - DYRS oversight
+  url: '#'
+# - date: May 2026  # PENDING: awaiting correct source doc for CSRH joint comment
+#   title: Member-drafted redline on the DYRS Community Status Review Hearings rulemaking
+#   summary: The coalition submitted joint comments and a member-drafted redline shaping how DYRS reviews the status of young
+#     people in its care.
+#   type: Joint comment
+#   tags:
+#   - DYRS oversight
+#   url: docs/2026-05-dyrs-csrh-comment.html
 - date: July 3, 2025
   title: Coalition calls to restore independent oversight of DYRS facilities
   summary: A sign-on letter urges the DC Council to restore funding for the Deputy Auditor for Juvenile Facilities Oversight,
@@ -23,12 +31,4 @@
   tags:
   - Oversight
   - Budget
-  url: '#'
-- date: '2025'
-  title: Member-drafted redline on the DYRS Community Status Review Hearings rulemaking
-  summary: The coalition submitted joint comments and a member-drafted redline shaping how DYRS reviews the status of young
-    people in its care.
-  type: Joint comment
-  tags:
-  - DYRS oversight
   url: '#'

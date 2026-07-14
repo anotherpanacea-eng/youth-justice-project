@@ -29,23 +29,4 @@
   </div>
 </section>
 
-<!-- ============ NEWSLETTER ============ -->
-<section class="section-sm" style="background:var(--paper-2); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
-  <div class="wrap">
-    <div style="display:grid; grid-template-columns:1.1fr 1fr; gap:40px; align-items:center;">
-      <div class="shead" style="max-width:none;">
-        <span class="kicker">Stay in the loop</span>
-        <h2 style="margin-top:14px;">Get coalition updates by email.</h2>
-        <p class="sintro">Occasional updates: new letters, new data, and what's moving at the Council. We do not share your email.</p>
-      </div>
-      <form onsubmit="this.querySelector('input').value=''; this.querySelector('.confirm').hidden=false; return false;" style="display:flex; flex-direction:column; gap:12px;">
-        <div style="display:flex; gap:10px;">
-          <input type="email" placeholder="Email address" aria-label="Email address" required style="flex:1; padding:14px 16px; border:1.5px solid var(--line-2); background:var(--paper); font-family:var(--font-body); font-size:15px; border-radius:2px;" />
-          <button class="btn" type="submit">Sign me up</button>
-        </div>
-        <div class="confirm" hidden style="font-size:14px; color:var(--anchor); font-weight:600;">Thanks. You are on the list. Watch your inbox for the next coalition update.</div>
-      </form>
-    </div>
-  </div>
-</section>
 {{ end }}

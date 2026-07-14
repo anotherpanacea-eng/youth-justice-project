@@ -152,6 +152,8 @@
     type: Testimony
     tags:
     - Budget
+    # PENDING: source doc names two OCA clients + has internal prep notes; needs a
+    # human call (publish Spain-only, or confirm client consent) before export.
     url: '#'
     external: false
   - date: Jun 11, 2025
@@ -239,7 +241,7 @@
     external: false
   - date: '2023'
     title: Whole Government Response to Crime Act of 2023
-    by: Rondell Jordan · Open City Advocates
+    by: Joshua Miller · Open City Advocates
     type: Testimony
     tags:
     - Legislation

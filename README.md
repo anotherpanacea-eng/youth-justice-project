@@ -38,8 +38,8 @@ yjp-hugo/
 │  ├─ partials/              # head, header (nav), footer  <- shared chrome
 │  ├─ index.html             # home body
 │  └─ _default/*.html        # members, data, policy, news, contact bodies
-├─ static/site.css           # your stylesheet, unchanged
-├─ deploy.sh                 # build + rsync to Dreamhost
+├─ static/site.css           # your stylesheet
+├─ static/CNAME              # custom-domain marker for GitHub Pages
 └─ public/                   # BUILD OUTPUT (generated; do not edit or commit)
 ```
 
@@ -86,11 +86,9 @@ Open `data/news.yaml` and add a block at the top:
   url: "#"
 ```
 
-It runs `hugo` and rsyncs `public/` to the domain's web directory. Confirm the
-`REMOTE` path in `deploy.sh` matches what the panel shows for the domain (usually
-`~/youthjusticeproject.org/`).
+## Deploy
 
-On Windows, run `deploy.sh` from Git Bash (which has rsync), or use WinSCP to sync
-the `public/` folder to the same directory. Plain PowerShell has no rsync.
+Push to `main`. GitHub Actions builds the site and publishes it to GitHub Pages at
+https://youthjusticeproject.org/ — see `DEPLOY-PAGES.md` for details.
 
 > Note: this project supersedes the earlier `YJP-Zensical/` folder, which can be deleted.
