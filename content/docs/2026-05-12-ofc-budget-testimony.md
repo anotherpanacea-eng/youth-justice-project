@@ -26,32 +26,6 @@ There are extreme racial disparities in the youth delinquency system nationwide,
 
 Open City Advocates' clients have had extensive contact with the delinquency system; most have also been in DC's child welfare system, and all are at high risk for entering the DC Jail or being harmed or killed by street violence. The majority of our clients hail from DC's Wards 7 and 8, where child poverty and gun violence are heavily concentrated. Recent DC Kids Count data show child poverty rates above 30% in both wards, and our analysis of MPD Crime Cards data found that roughly 46% of violent crimes committed with guns over the last two years occurred in Wards 7 and 8. In our 20-year history, we have lost six clients to gun violence and one to a drug overdose. Open City Advocates works to help our clients envision and actualize a healthy adulthood instead of accepting death or incarceration by age 25.
 
-## OFC Testimony
-
-Good afternoon. My name is Joshua Miller, and I am the Research & Advocacy Director at Open City Advocates, which provides legal representation, holistic advocacy, and mentoring to youth who have been committed to the DC Department of Youth Rehabilitation Services, or DYRS.
-
-We are grateful that the proposed budget preserves the Office of the Ombudsperson for Children, and we appreciate the Council's defense of OFC last cycle. Preservation alone is not enough.
-
-Our request is straightforward: preserve OFC, but do not stop there. Extend OFC's jurisdiction to all youth committed to DYRS, not only those who also have a CFSA case. Give the Office statutory authority to enter facilities and placements, interview committed youth directly, review relevant records, and protect youth and families from retaliation when they engage with the Office. We are submitting with this testimony a comprehensive redline of the OFC statute that would accomplish substantially all of this. We commend it to the Committee's consideration.
-
-The broader oversight picture for children in the care of DYRS has progressively gotten worse. The Office of Independent Juvenile Justice Facilities Oversight is gone. The successor function lodged at the Office of the DC Auditor by the Recidivism Reduction at DYRS Amendment Act of 2024 has not been appropriated. While the revenue forecast remains difficult, we must not continue responding to difficult times by withdrawing oversight and protection for young people.
-
-Without expanding OFC, the District will have preserved an office while leaving the central oversight gap intact. DYRS had 308 youth committed to its care in the most recent JSTAT reporting year, and DYRS has worked with a little under 310 committed youth annually. OFC can reach a DYRS-committed child only when that child is also actively involved with CFSA. For most of those committed youth, that means no Ombuds at all. The child who is dual-jacketed is covered. The child in a DYRS placement, whose CFSA case was perhaps closed specifically because they were committed to DYRS, is unable to access the Office, even if they are in a placement that is far from home, clinically inadequate, or unsafe.
-
-This is the wrong line to draw. DYRS acts in loco parentis when a child is committed. It decides where that child lives, what treatment they receive, what school they attend, when they come home, and what happens when a placement breaks down. Those powers require independent oversight.
-
-With OIJJFO defunded, OFC is now the only standing body that could be positioned to collect and evaluate data from DYRS, identify gaps in service provision, and recommend improvements to daily practices. It should also be able to examine the experience of DYRS-committed youth in inpatient behavioral health settings and contracted placements.
-
-OFC needs affirmative access to do that work. Our colleagues at Disability Rights DC have shown the difference such access makes. Without it, oversight runs on grievances and incident reports that are internally monitored by DYRS, and those systematically exclude what staff do not want surfaced. The Office must be independent of CFSA and DYRS, and it must have authority to enter facilities, interview committed youth, review records, and protect those who engage with it from retaliation.
-
-Authority without funding is a paper mandate. We estimate that giving OFC the capacity to do this work will require $500,000 to $1 million above OFC's current $733,094 FY27 budget, depending on how aggressively the Office is expected to monitor out-of-state placements and produce regular public reporting. That is a small fraction of DYRS's $104 million FY27 proposed budget. The Fiscal Impact Statement for the ROAD Act estimated approximately $1.46 million per year to place the same work at the DC Auditor's office, which would have built the function from scratch. OFC can do it for less because the Office already has the infrastructure to absorb much of that overhead. The Council passed the ROAD Act without funding accountability. We are asking the Council not to repeat that choice.
-
-Closing the jurisdictional gap is the next step, and it is overdue.
-
-Thank you for your time. I am available to answer any questions.
-
-## For the Written Record
-
 ### The Jurisdictional Gap
 
 The Office of the Ombudsperson for Children has authority over CFSA-involved children, including foster youth and children whose families are receiving CFSA services. The Office's authority over DYRS-committed children is limited to those who are simultaneously involved with CFSA, what practitioners call "dual-jacketed" youth. DYRS had 308 youth committed to its care in the most recent JSTAT reporting year, and DYRS has worked with a little under 310 committed youth annually. Only a small subset are dual-jacketed at any given time. The rest are outside OFC's jurisdiction entirely.

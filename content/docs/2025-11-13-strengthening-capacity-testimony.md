@@ -5,68 +5,8 @@ docdate: "Nov 13, 2025"
 by: "Joshua Miller · Open City Advocates"
 doctype: "Testimony"
 tags: ["Legislation", "DYRS oversight"]
-description: "Oral and written testimony arguing that independent monitoring of juvenile justice facilities cannot be replaced by agency self-reporting, drawing on Maryland's Waxter Children's Center as a case study."
+description: "Written testimony arguing that independent monitoring of juvenile justice facilities cannot be replaced by agency self-reporting, drawing on Maryland's Waxter Children's Center as a case study."
 ---
-
-## ORAL TESTIMONY TO DC COUNCIL COMMITTEE ON YOUTH AFFAIRS
-
-**Joshua A. Miller, PhD**
-
-**Research & Advocacy Director**
-**Open City Advocates**
-**November 13, 2025**
-
-Good afternoon, Chairman Parker. I'm here to talk about why independent monitoring of juvenile justice facilities isn't just helpful but essential. While the Strengthening Capacity and Transparency Act is a valuable stopgap, it's inadequate to the needs of independent oversight, and we would again ask you to restore funding for a juvenile justice facilities monitor.
-
-Let's start with OIJJFO's Behavioral Health Services report released in October, even as the office's funding lapsed.
-
-Independent review found no evidence that court-ordered diagnostic evaluations informed DYRS's treatment plans—despite youth having documented trauma, learning disorders, and substance abuse. It questioned whether New Beginnings was successfully rehabilitating the youth detained there, or ever could given the lack of adequate program design. That report also found suicide precaution monitoring dropped from 100% to 21% compliance.
-
-DYRS's response showed the pattern: admit no fault, promise better documentation, but don't respond to recommendations about whether rehabilitation actually works.
-
-Would DYRS have self-reported these gaps? We didn't see them in DYRS testimony at budget oversight this year, despite the agency saying in response to the report that they were already aware and addressing them.
-
-**Agencies focused on daily operations, managing overcrowding, and staffing crises don't recognize their own systemic gaps. Independent oversight provides the distance needed to see patterns.**
-
-Yet DC allowed this capacity to lapse just as it is demonstrating its value.
-
-During Director Abed's testimony at this committee's October oversight hearing, we learned that DYRS is negotiating to acquire or lease a Maryland detention facility. But **independent monitoring data suggest this site is wholly inadequate and unfit for imprisoning DC's young people.**
-
-When we researched the facility matching Director Abed's description (three miles from New Beginnings in Laurel), it appeared to be the Waxter Children's Center in Maryland. And we discovered that Maryland's independent Juvenile Justice Monitoring Unit had documented conditions at Waxter for nearly two decades. **That facility operated for 15 years after state oversight bodies formally recommended its immediate closure.**
-
-In 2007, Maryland's independent Juvenile Justice Monitoring Unit concluded Waxter had "outlived its usefulness" and was "virtually impossible to improve." They recommended closure at "the earliest possible date."
-
-The facility remained open for 15 more years.
-
-During those years (documented from 2007 through at least 2020), independent monitors reported: HVAC failures causing mold that gave detained girls respiratory illnesses. Holes in floors. Water leaking through walls. The persistent smell of raw sewage. Fire safety hazards so severe that the girls incarcerated there said, "If there was an emergency, like a fire, we would be injured because the staff can't work the keys fast enough to let us out in time."
-
-Maryland's own DJS Secretary said in 2009 he'd like to 'blow it up' but kept it open due to overcrowding.
-
-DJS Director Sam Abed, who served in that capacity from 2011 to 2023, finally closed the facility in January 2022.
-
-Here's what makes this history instructive: for 15 years, Maryland's juvenile justice agency frequently contested independent findings. The Secretary would respond that monitoring reports "contain incorrect and misleading information." From 2016-2019, DJS used identical language in four consecutive responses accusing monitors of "biased or subjective recommendations."
-
-Most tellingly, DJS argued that **"statements from youth cannot form the basis of any conclusions for audit purposes."**
-
-Let me be direct about what that means. When DJS said youth testimony didn't meet audit standards, they were saying: **don't believe the children.**
-
-When girls told monitors about mold that made them sick, about smelling sewage, about fearing fire, DJS argued those statements weren't reliable evidence.
-
-**This is often how institutional failures can go unrecognized: by discrediting the only witnesses who see everything.**
-
-Throughout those 15 years, girls lived with respiratory illness and dangerous conditions (2007-2020) while agencies contested methodology. **The facility only closed when political pressure made continued operation untenable.**
-
-The question isn't whether agencies are well-intentioned. It's whether **any agency can acknowledge its own failures without independent verification.**
-
-Waxter proves the answer is no. 15 years of operation after independent oversight wanted to close it, with agencies contesting findings the whole time proves the answer is no.
-
-**If this Council allows independent monitoring to remain defunded while considering legislation that shifts oversight to DYRS self-reporting, you'll lose the very tool that prevents facilities from deteriorating undetected for 15 years.**
-
-Don't eliminate the accountability mechanism that could prevent the next Waxter.
-
-Thank you for your time and attention. I'm happy to answer any questions.
-
-## WRITTEN TESTIMONY TO THE DC COUNCIL COMMITTEE ON YOUTH AFFAIRS
 
 **Joshua A. Miller, PhD**
 

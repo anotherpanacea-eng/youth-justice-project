@@ -16,24 +16,6 @@ DC Council Committee on the Judiciary and Public Safety, Budget Oversight Hearin
 
 May 6, 2026
 
-## Oral Testimony (3 minutes)
-
-Chairperson Pinto and Members of the Committee, thank you for the opportunity to testify. My name is Joshua Miller. I am the Research and Advocacy Director at Open City Advocates, which represents young people committed to DYRS in their post-disposition matters. I am here in support of the LEARNS Act and full funding for it.
-
-The credentials I bring to this hearing are older than my time at OCA. Before joining OCA, I spent six years as Director of Education at the Georgetown University Prisons and Justice Initiative. I had previously run a volunteer Prison Scholars Program at the Jessup Correctional Institution in Maryland with more than 160 incarcerated students before bringing the model to the DC Jail in 2018, in partnership with then-DOC Director Quincy Booth. I worked with students inside, read their applications and their writing, and came to know the population well.
-
-Every student we admitted was ready for college-level work. They were curious, articulate, and undertrained. They had been failed long before they ever set foot in a cell, and the institutions that failed them were DC's public and charter schools. The disabilities this bill asks the District to identify and accommodate were, in case after case, present and unaddressed since elementary school.
-
-Today at OCA, I see the other end of that same pipeline. Young people committed to DYRS with documented special education needs reach their eighteenth birthday and get transferred to the same jail I just described. Some arrive with IEPs that have not been honored. Many arrive having never been evaluated at all. That is the central problem LEARNS fixes. The high school program inside the DC Jail, run by Maya Angelou Public Charter School, only serves students who already have an IEP. A young person who arrives without one, no matter how visibly they need services, has no path into the school. Their only option is GED self-study, which for students with significant learning disabilities is no option at all. LEARNS requires the District to evaluate them.
-
-The District has already paid for that failure in court, in the Charles H. settlement, and it will pay again unless this bill is funded.
-
-LEARNS guarantees a floor that federal law already requires. The Fiscal Impact Statement substantially overstates the cost of meeting that floor; I defer to the LEARNS FIS Questions document and to my coalition partners for the arithmetic.
-
-I urge this Committee to fund the LEARNS Act in full. Thank you. I welcome your questions.
-
-## Written Testimony for the Record
-
 ### Introduction
 
 Chairperson Pinto and Members of the Committee, thank you for the opportunity to submit written testimony in support of B26-0526, the Leading Education Access for Reentry and Necessary Success Act. I am the Research and Advocacy Director at Open City Advocates, a nonprofit legal organization providing post-disposition representation to young people committed to the Department of Youth Rehabilitation Services. The credentials I bring to this testimony, however, are older than my time at OCA.

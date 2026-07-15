@@ -8,56 +8,6 @@ tags: ["DYRS oversight"]
 description: "Performance oversight testimony to the DC Council's Committee on Youth Affairs documenting DYRS's noncompliance with the ROAD Act's rehabilitation and reentry planning requirements and the DC Auditor's findings on New Beginnings."
 ---
 
-## Oral Testimony
-
-**Testimony of Penelope Spain, CEO**
-
-Good afternoon. My name is Penelope Spain, and I am the CEO of Open City Advocates, which represents youth committed to DYRS. I'm here today because DYRS is not complying with the ROAD Act's basic requirements for individualized rehabilitation and reentry planning.
-
-Despite the ROAD Act requiring individualized rehabilitation plans (or IRPs), DYRS is treating the requirement as a paperwork exercise. Instead of producing plans that are genuinely individualized, we repeatedly see DYRS substituting other boilerplate documents that are not individualized or structured in a way that could even vaguely guide a youth's rehabilitation.
-
-The ROAD Act also requires discharge and reentry planning, which DYRS is failing to do. The Act requires that reentry planning begin no later than 60 days after an out-of-home placement. It should identify where a young person will live upon discharge, in which school they will reenroll, what behavioral health supports will be in place, and how continuity of care will be ensured. It should also include supports that cultivate family engagement and stability. These things can't happen if the plan is kept secret until after the child is released.
-
-And DYRS has made clear that secrecy is indeed the policy. In response to our requests for discharge plans, DYRS stated that, quote, "a completed discharge/re-entry plan will only be finalized and shared upon the youth's release." That is not reentry planning. You cannot coordinate reentry if no one sees the reentry plan until the young person walks out the gates.
-
-This secrecy is compounded by DYRS's failure to hold the meetings that would make individualized planning possible. DYRS is not holding regular team decision making meetings (or TDMs) for youth in out-of-home placements. For youth placed out of *state*, DYRS relies on progress meetings run by the facility rather than conducting DYRS-led meetings that would keep the DC-based members engaged and prepared for discharge. For youth at New Beginnings, DYRS does not conduct TDMs except at discharge. Again, reentry planning cannot be done behind closed doors and revealed at the last moment.
-
-We ask the Committee to press DYRS on three points:
-
-1.  **Develop the IRPs**. Require DYRS to share its IRP template, materials used to train staff in how to draft the IRPs, and anonymized samples of IRPs that have been developed. IRPs should align with each child's existing clinical evaluations, be tailored to each child's needs, and recognize their natural support systems.
-2.  **Develop and share reentry plans before release**. Require DYRS, in collaboration with the child's treatment team and family, to develop discharge and reentry plans within 60 days of placement; update them monthly, and share any updates with the youth and the full team well before release.
-3.  **Implement team-based planning meetings**. Require DYRS to regularly conduct TDMs for all youth and ensure those meetings include meaningful reentry planning and concrete discharge steps and logistics.
-
-Thank you and I'm available to answer any questions.
-
-**Testimony of Joshua Miller, Research & Advocacy Director**
-
-Good afternoon, Chairman Parker and members of the Committee. My name is Joshua Miller, and I am the Research & Advocacy Director at Open City Advocates.
-
-I meet with the Youth Council at YSC every month, and I hope you will find time to visit with them soon.
-
-When I met with them two weeks ago, I told them we would be here today and I asked if anyone had a message for you. They struggle with that. But when I asked if they had any questions, one young woman immediately raised her hand.
-
-She said, "What is your plan? Seriously, do you even have a plan? How exactly are we being rehabilitated? That is what we are here for, right? Rehabilitation? This is jail, not treatment. If we do not learn anything new, we are just going to get sent back here. I need them to figure this out. I need them to figure out how to turn a no into a yes. All they seem to do is turn a yes into a no. There are all these fights, all these incidents, because there is nothing happening. Judges need to get the incident reports, because they do not understand what is happening here. There is no structure. There are not enough staff. DYRS is so inconsistent. They break their promises. We get disappointed. And that just means we will be back. So ask them, what is your plan?"
-
-If you boil down the Auditor's October 2025 report on New Beginnings to its essence, it does not sound much different. Failing to plan is planning to fail.
-
-The Auditor's findings confirm what this young woman already knows. Of 72 youth admitted to New Beginnings in 2023 and later released, 56 (78 percent) had further involvement with the criminal justice system. Even among those who completed the program, 70 percent later had criminal justice involvement. Completion does not predict success.
-
-That is not a therapeutic program. That is warehouse management with paperwork.
-
-At the last hearing, you asked what transition planning should look like. Let me tell you what it looks like now.
-
-DYRS tells us they are waiting for young people to demonstrate they are ready for release. In practice, that means a young person works through the program, then sits on "home petition" with little useful programming, and only then does DYRS begin thinking about a release plan. That planning takes weeks or months more. These young people have short time horizons, and they notice when promises are broken. Breaking promises to children is one of the most reliable ways to teach them to stop responding to incentives. They become frustrated with the dead time, they act out, and the cycle restarts.
-
-Failure to plan is expensive. DYRS's FY26 approved budget totals about $97.5 million. With secure-facility populations in the neighborhood of 175 youth on a typical day, the District is spending on the order of fifteen hundred dollars per confined youth per day. At that level of investment, the public should be able to see individualized plans, real treatment, and real transition planning, not secrecy and delay.
-
-Chairman Parker, I am asking you to do what that young woman asked. Put DYRS to the question, in public: what is your plan?
-
-Because if DYRS cannot answer that, then DYRS is not focused on rehabilitating children. It is managing them. And the predictable result is exactly what the youth told me: they will be back.
-
-## WRITTEN TESTIMONY OF OPEN CITY ADVOCATES
-
 **Before the Committee on Youth Affairs** **Council of the District of Columbia**
 
 **Chairman Zachary Parker and Members of the Committee**
