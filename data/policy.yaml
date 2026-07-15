@@ -8,7 +8,7 @@
     tags:
     - Budget
     - Oversight
-    url: '#'
+    url: docs/2026-05-12-ofc-budget-testimony.html
     external: false
   - date: May 7, 2026
     title: DYRS Budget Oversight
@@ -17,7 +17,7 @@
     tags:
     - Budget
     - DYRS oversight
-    url: '#'
+    url: docs/2026-05-07-dyrs-budget-testimony.html
     external: false
   - date: May 6, 2026
     title: Access to Justice (ATJ)
@@ -26,7 +26,7 @@
     tags:
     - Budget
     - Right to counsel
-    url: '#'
+    url: docs/2026-05-06-atj-testimony.html
     external: false
   - date: May 6, 2026
     title: B26-0526, the LEARNS Act
@@ -35,7 +35,7 @@
     tags:
     - Legislation
     - Education in custody
-    url: '#'
+    url: docs/2026-05-06-learns-act-testimony.html
     external: false
   - date: Apr 2026
     title: 2026 DC Public Safety Policy Agenda for DC's Next Mayor and Council
@@ -59,7 +59,7 @@
     type: Testimony
     tags:
     - DYRS oversight
-    url: '#'
+    url: docs/2026-02-02-dyrs-performance-oversight-testimony.html
     external: false
   - date: Jan 28, 2026
     title: CFSA / Office of the Ombudsperson for Children
@@ -68,7 +68,7 @@
     tags:
     - Oversight
     - Crossover youth
-    url: '#'
+    url: docs/2026-01-28-cfsa-ofc-testimony.html
     external: false
 - year: '2025'
   count: 12 items
@@ -80,7 +80,7 @@
     tags:
     - Legislation
     - DYRS oversight
-    url: '#'
+    url: docs/2025-11-13-strengthening-capacity-testimony.html
     external: false
   - date: Nov 2025
     title: Committed Youth Awaiting Placement in the DC Youth Services Center
@@ -97,7 +97,7 @@
     tags:
     - Legislation
     - Family
-    url: '#'
+    url: docs/2025-11-10-parental-engagement-testimony.html
     external: false
   - date: Oct 16, 2025
     title: CCE Testimony on Overcrowding at Youth Services Center
@@ -148,13 +148,11 @@
     external: true
   - date: Jun 12, 2025
     title: OVSJG Budget Oversight
-    by: Open City Advocates
+    by: Penelope Spain, DeAngelo Covington & Tyrone Hall · Open City Advocates
     type: Testimony
     tags:
     - Budget
-    # PENDING: source doc names two OCA clients + has internal prep notes; needs a
-    # human call (publish Spain-only, or confirm client consent) before export.
-    url: '#'
+    url: docs/2025-06-12-ovsjg-budget-testimony.html
     external: false
   - date: Jun 11, 2025
     title: DYRS Budget Oversight
@@ -163,7 +161,7 @@
     tags:
     - Budget
     - DYRS oversight
-    url: '#'
+    url: docs/2025-06-11-dyrs-budget-testimony.html
     external: false
   - date: May 29, 2025
     title: Office of the Ombudsperson for Children (OFC)
@@ -171,7 +169,7 @@
     type: Testimony
     tags:
     - Oversight
-    url: '#'
+    url: docs/2025-05-29-ofc-testimony.html
     external: false
 - year: '2024'
   count: 2 items
@@ -197,12 +195,12 @@
   items:
   - date: Dec 13, 2023
     title: Public Safety & Behavioral Health Services and Support for Youth (Joint Oversight Roundtable)
-    by: Rondell Jordan · Open City Advocates
+    by: Penelope Spain, Rondell Jordan & Joshua Miller · Open City Advocates
     type: Testimony
     tags:
     - Oversight
     - Behavioral health
-    url: '#'
+    url: docs/2023-12-13-youth-support-roundtable-testimony.html
     external: false
   - date: Oct 2023
     title: Marja Plater Testifies on DC School Safety Condition
@@ -219,7 +217,7 @@
     tags:
     - Legislation
     - Public safety
-    url: '#'
+    url: docs/2023-act-now-testimony.html
     external: false
   - date: '2023'
     title: Addressing Crime through Targeted Interventions and Violence Enforcement (“ACTIVE”) Amendment Act of 2023
@@ -228,7 +226,7 @@
     tags:
     - Legislation
     - Public safety
-    url: '#'
+    url: docs/2023-active-testimony.html
     external: false
   - date: '2023'
     title: Safer Stronger Amendment Act
@@ -237,16 +235,16 @@
     tags:
     - Legislation
     - Public safety
-    url: '#'
+    url: docs/2023-safer-stronger-testimony.html
     external: false
   - date: '2023'
-    title: Whole Government Response to Crime Act of 2023
+    title: Whole of Government Response to Crime Act of 2023
     by: Joshua Miller · Open City Advocates
     type: Testimony
     tags:
     - Legislation
     - Public safety
-    url: '#'
+    url: docs/2023-whole-government-testimony.html
     external: false
   - date: May 2023
     title: Supporting Access to DC Council Hearings While Incarcerated
