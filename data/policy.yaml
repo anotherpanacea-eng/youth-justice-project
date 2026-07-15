@@ -1,6 +1,22 @@
 - year: '2026'
-  count: 8 items
+  count: 10 items
   items:
+  - date: Jul 1, 2026
+    title: Joint comment on the DYRS Community Status Review Hearings rulemaking
+    by: Public Defender Service, Open City Advocates, ACLU-DC & 7 other organizations
+    type: Joint comment
+    tags:
+    - DYRS oversight
+    url: docs/2026-07-01-dcmr-csrh-joint-letter.pdf
+    external: true
+  - date: Jul 1, 2026
+    title: Member-drafted redline — DCMR Ch. 12 Community Placement Process (5th NOPR)
+    by: Attachment to the joint comment
+    type: Redline
+    tags:
+    - DYRS oversight
+    url: docs/2026-dcmr-ch12-csrh-redline.pdf
+    external: true
   - date: May 12, 2026
     title: Budget Oversight Hearing — Office of the Ombudsperson for Children
     by: Joshua Miller · Open City Advocates
