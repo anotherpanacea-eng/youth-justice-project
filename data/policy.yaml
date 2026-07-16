@@ -1,5 +1,5 @@
 - year: '2026'
-  count: 10 items
+  count: 11 items
   items:
   - date: Jul 1, 2026
     title: Joint comment on the DYRS Community Status Review Hearings rulemaking
@@ -61,6 +61,16 @@
     - Public safety
     url: https://dcjusticelab.org/wp-content/uploads/2026/04/DCJL_-2026-Public-Safety-Agenda_press-release-1.pdf
     external: true
+  - date: Mar 17, 2026
+    title: J.D. v. District of Columbia — ruling on the District's partial motion to dismiss
+    by: Washington Lawyers' Committee · Counsel for plaintiff
+    type: Court decision
+    tags:
+    - DYRS oversight
+    - Conditions of confinement
+    - Use of force
+    url: https://law.justia.com/cases/federal/district-courts/district-of-columbia/dcdce/1%3A2025cv01349/280226/44/
+    external: true
   - date: FY27
     title: FY27 Budget Testimony — Corrections Information Council
     by: Council for Court Excellence
@@ -87,7 +97,7 @@
     url: docs/2026-01-28-cfsa-ofc-testimony.html
     external: false
 - year: '2025'
-  count: 12 items
+  count: 13 items
   items:
   - date: Nov 13, 2025
     title: Strengthening Capacity and Transparency at DYRS Amendment Act of 2025
@@ -187,9 +197,28 @@
     - Oversight
     url: docs/2025-05-29-ofc-testimony.html
     external: false
+  - date: Mar 28, 2025
+    title: Barnes v. District of Columbia — class certification and dismissal ruling
+    by: School Justice Project & Washington Lawyers' Committee · Counsel for plaintiffs
+    type: Court decision
+    tags:
+    - Education in custody
+    - Disability rights
+    url: https://www.washlaw.org/wp-content/uploads/2025/04/ECF-55-Mem.-Op.-re-class-cert-and-mot.-to-dismiss.pdf
+    external: true
 - year: '2024'
-  count: 2 items
+  count: 3 items
   items:
+  - date: May 6, 2024
+    title: K.P. v. District of Columbia — complaint alleging abuse and retaliation at New Beginnings
+    by: Washington Lawyers' Committee · Counsel for plaintiff
+    type: Lawsuit filing
+    tags:
+    - DYRS oversight
+    - Conditions of confinement
+    - Use of force
+    url: https://www.washlaw.org/district-of-columbia-sued-over-dc-youth-rehabilitation-services-abuse-of-youth/
+    external: true
   - date: May 2024
     title: 'Youth At Risk: Dangerous Restraints and Excessive Seclusion at DYRS Facilities'
     by: Disability Rights DC
@@ -207,7 +236,7 @@
     url: https://static1.squarespace.com/static/6552809b0ca8a84d29773920/t/6655d44e5b32842f4006b097/1716900943232/A-Call-to-Expand-Post-Dispo-Representation.pdf
     external: true
 - year: '2023'
-  count: 8 items
+  count: 10 items
   items:
   - date: Dec 13, 2023
     title: Public Safety & Behavioral Health Services and Support for Youth (Joint Oversight Roundtable)
@@ -225,6 +254,25 @@
     tags:
     - Education in custody
     url: https://www.washlaw.org/wp-content/uploads/2023/10/2023.10.09-WLC-Testimony-on-Work-Order-Integrity-School-Readiness.pdf
+    external: true
+  - date: Sep 22, 2023
+    title: Charles H. v. District of Columbia — settlement agreement on special education at the DC Jail
+    by: School Justice Project & Washington Lawyers' Committee · Counsel for plaintiffs
+    type: Settlement agreement
+    tags:
+    - Education in custody
+    - Disability rights
+    url: https://www.washlaw.org/charles-h-v-district-of-columbia/
+    external: true
+  - date: Jul 25, 2023
+    title: M.J. v. District of Columbia — ongoing community mental-health services litigation
+    by: Disability Rights DC · Organizational plaintiff
+    type: Ongoing litigation
+    tags:
+    - Behavioral health
+    - Crossover youth
+    - Community-based services
+    url: https://www.uls-dc.org/article/drdc-goes-to-court-in-m-j-v-district-of-columbia-case
     external: true
   - date: '2023'
     title: Addressing Crime Trends Amendment Act of 2023 (ACT NOW)
@@ -278,6 +326,18 @@
     - Budget
     - Education in custody
     url: https://www.washlaw.org/wp-content/uploads/2023/04/Banner-Testimony-4.5.2023-Education-Cluster-Budget-Hearing.pdf
+    external: true
+- year: '2020'
+  count: 1 item
+  items:
+  - date: Feb 6, 2020
+    title: In re N.H.M. — right to compensated counsel in DYRS proceedings
+    by: Open City Advocates · Counsel for appellant
+    type: Appellate decision
+    tags:
+    - Right to counsel
+    - DYRS oversight
+    url: https://www.dccourts.gov/sites/default/files/2020-02/16-FS-1289%20%26%201290.pdf
     external: true
 - year: '2019'
   count: 1 item

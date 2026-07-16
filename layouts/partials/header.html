@@ -9,13 +9,18 @@
         <span class="bsub">A DC Youth Justice Coalition</span>
       </span>
     </a>
-    <nav class="nav" aria-label="Primary">
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+      <span>Menu</span>
+      <span class="menu-icon" aria-hidden="true"><span></span><span></span></span>
+    </button>
+    <nav class="nav" id="primary-nav" aria-label="Primary">
       <a class="navlink" href="index.html#about">About</a>
       <a class="navlink" href="index.html#work">Our Work</a>
       <a class="navlink" href="members.html"{{ if eq .Params.nav "members" }} aria-current="page"{{ end }}>Members</a>
       <a class="navlink" href="policy.html"{{ if eq .Params.nav "policy" }} aria-current="page"{{ end }}>Policy &amp; Research</a>
       <a class="navlink" href="data.html"{{ if eq .Params.nav "data" }} aria-current="page"{{ end }}>Data</a>
       <a class="navlink" href="news.html"{{ if eq .Params.nav "news" }} aria-current="page"{{ end }}>News</a>
+      <a class="navlink" href="contact.html"{{ if eq .Params.nav "contact" }} aria-current="page"{{ end }}>Contact</a>
       {{ if eq .Params.nav "data" }}<a class="btn" href="index.html">Home <span class="arw">→</span></a>{{ else }}<a class="btn" href="data.html">Read the data <span class="arw">→</span></a>{{ end }}
     </nav>
   </div>

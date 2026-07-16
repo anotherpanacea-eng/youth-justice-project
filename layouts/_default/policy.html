@@ -3,8 +3,8 @@
 <section class="page-hero">
   <div class="wrap">
     <span class="kicker">Policy &amp; Research</span>
-    <h1 style="margin-top:16px;">What the coalition files, signs, and testifies on.</h1>
-    <p class="lede">This is where the coalition publishes its shared positions on DC youth justice policy and the work behind them. Read what members have filed, signed, and testified on, and cite or share any of it.</p>
+    <h1 style="margin-top:16px;">What the coalition and its members file, sign, litigate, and testify on.</h1>
+    <p class="lede">This is where the coalition publishes its shared positions on DC youth justice policy, alongside significant member-led litigation and the work behind it. Read, cite, and share any of it.</p>
   </div>
 </section>
 
@@ -32,14 +32,49 @@
         <span class="dtag">Public safety</span>
         <span class="dtag">Behavioral health</span>
       </div>
-      <div style="font-family:var(--font-mono); font-size:12px; color:var(--ink-mute);">Testimony, letters, statements, and reports from Open City Advocates and coalition members, 2009–2026.</div>
+      <div style="font-family:var(--font-mono); font-size:12px; color:var(--ink-mute);">Testimony, letters, statements, reports, and significant litigation from Open City Advocates and coalition members, 2009–2026.</div>
     </div>
 
-    {{ range $g := site.Data.policy }}
-    <div class="year-group">
-      <div class="year-head"><span class="yr">{{ $g.year }}</span><span class="yc">{{ $g.count }}</span></div>
+    {{ $topics := slice }}
+    {{ range $g := hugo.Data.policy }}
+      {{ range $g.items }}
+        {{ range .tags }}{{ $topics = $topics | append . }}{{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $topics = $topics | uniq | sort }}
+
+    <div class="archive-tools" data-archive-controls>
+      <div class="archive-search">
+        <label for="archive-search">Search the archive</label>
+        <div class="archive-search-field">
+          <input id="archive-search" type="search" autocomplete="off" placeholder="Search titles, authors, dates, or topics" data-archive-search />
+          <button type="button" class="archive-clear" data-archive-clear hidden>Clear</button>
+        </div>
+      </div>
+      <div class="archive-filter-row">
+        <div>
+          <span class="archive-control-label">Filter by topic</span>
+          <div class="archive-topic-filters" role="group" aria-label="Filter archive by topic">
+            <button type="button" class="archive-topic is-active" data-archive-topic="" aria-pressed="true">All topics</button>
+            {{ range $topics }}<button type="button" class="archive-topic" data-archive-topic="{{ . }}" aria-pressed="false">{{ . }}</button>{{ end }}
+          </div>
+        </div>
+        <label class="archive-year-jump" for="archive-year-jump">
+          <span class="archive-control-label">Jump to year</span>
+          <select id="archive-year-jump" data-archive-year>
+            <option value="">Choose a year</option>
+            {{ range $g := hugo.Data.policy }}<option value="{{ $g.year }}">{{ $g.year }}</option>{{ end }}
+          </select>
+        </label>
+      </div>
+      <p class="archive-status" data-archive-status role="status" aria-live="polite"></p>
+    </div>
+
+    {{ range $g := hugo.Data.policy }}
+    <div class="year-group" id="archive-year-{{ $g.year }}" data-year-group>
+      <div class="year-head"><span class="yr">{{ $g.year }}</span><span class="yc" data-year-count>{{ $g.count }}</span></div>
 {{ range $g.items }}
-      <a class="doc-row" href="{{ .url }}"{{ if .external }} target="_blank" rel="noopener"{{ end }}>
+      <a class="doc-row" href="{{ .url }}" data-archive-item data-topics="{{ delimit .tags "||" | lower }}" data-search="{{ printf "%s %s %s %s %s" .date .title .by .type (delimit .tags " ") | lower }}"{{ if .external }} target="_blank" rel="noopener"{{ end }}>
         <div class="ddate">{{ .date }}</div>
         <div>
           <div class="dttl">{{ .title }}</div>
@@ -51,6 +86,11 @@
 {{ end }}
     </div>
 {{ end }}
+
+    <div class="archive-empty" data-archive-empty hidden>
+      <h3>No matching materials</h3>
+      <p>Try a broader search, choose another topic, or clear the filters.</p>
+    </div>
 
     <!-- ===== ONGOING RESOURCES (no publication date) ===== -->
     <div class="year-group">
