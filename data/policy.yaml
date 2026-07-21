@@ -1,6 +1,14 @@
 - year: '2026'
-  count: 11 items
+  count: 13 items
   items:
+  - date: Jul 2026
+    title: 'IRAA/Second Look and the YRA: What Are They?'
+    by: Free Minds
+    type: Resource
+    tags:
+    - Legislation
+    url: https://freemindsbookclub.org/wp-content/uploads/2026/07/IRAA-YRA-one-pager-3.pdf
+    external: true
   - date: Jul 1, 2026
     title: Joint comment on the DYRS Community Status Review Hearings rulemaking
     by: Public Defender Service, Open City Advocates, ACLU-DC & 7 other organizations
@@ -87,6 +95,14 @@
     - DYRS oversight
     url: docs/2026-02-02-dyrs-performance-oversight-testimony.html
     external: false
+  - date: Feb 2, 2026
+    title: 'The Second Look Law: A Safer, Stronger DC'
+    by: Free Minds
+    type: Report
+    tags:
+    - Legislation
+    url: https://freemindsbookclub.org/the-second-look-law-a-safer-stronger-dc/
+    external: true
   - date: Jan 28, 2026
     title: CFSA / Office of the Ombudsperson for Children
     by: Joshua Miller · Open City Advocates
