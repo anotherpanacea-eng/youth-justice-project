@@ -533,6 +533,23 @@ select:focus-visible {
 .join-band h3 { font-size: 24px; font-weight: 500; }
 .join-band p { margin-top: 12px; color: var(--ink-soft); font-size: 16px; line-height: 1.6; }
 
+/* ---- history (members page) ---- */
+.history-band { margin-top: 52px; background: var(--paper-2); border: 1px solid var(--line); padding: 40px 44px; }
+.history-band h3 { font-size: 24px; font-weight: 500; margin-top: 14px; }
+.history-band .hintro { margin-top: 12px; color: var(--ink-soft); font-size: 16px; line-height: 1.6; max-width: 62ch; }
+.history-rail { margin-top: 34px; margin-left: 5px; border-left: 2px solid var(--line-2); }
+.era { position: relative; padding: 0 0 24px 24px; }
+.era:last-child { padding-bottom: 4px; }
+.era-dot { position: absolute; left: -6px; top: 5px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); }
+.era:nth-child(2) .era-dot { background: var(--anchor); }
+.era:nth-child(3) .era-dot { background: var(--clay); }
+.era-years { font-family: var(--font-mono); font-size: 12.5px; letter-spacing: 0.04em; color: var(--ink-mute); }
+.era-title { font-size: 18px; font-weight: 600; margin-top: 4px; }
+.era-sum { margin-top: 4px; font-size: 15px; color: var(--ink-soft); line-height: 1.6; max-width: 66ch; }
+.roster-label { margin-top: 36px; font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-mute); }
+.roster-pills { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 7px; }
+.roster-pills span { font-family: var(--font-mono); font-size: 11px; color: var(--ink-soft); border: 1px solid var(--line-2); border-radius: 999px; padding: 4px 10px; }
+
 /* =========================== news =========================== */
 .news-list { margin-top: 44px; border-top: 1px solid var(--line); }
 .news-item { display: grid; grid-template-columns: 160px 1fr auto; gap: 28px; align-items: start; padding: 28px 8px 28px 4px; border-bottom: 1px solid var(--line); text-decoration: none; color: inherit; transition: background .15s ease, padding .15s ease; }
